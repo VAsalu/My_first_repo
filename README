@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 I'm adding to this so I can learn how to merge branches.. 
 =======
-I'm adding text to this so I can learn about merging branches. 
->>>>>>> fubu
+I'm adding text to this so I can learn about merging branches.
 
 This Project is pretty cool and this is a read me
 
@@ -10,3 +9,10 @@ This project will help Treehouse students learn about working with Git
 
 repositories. 
 
+
+
+So we are trying to merge everything togethr to truly understand Version Control 
+
+==      ==
+    ++
+==	==
